@@ -1,72 +1,170 @@
-<h1 align="center">👋 Hi there! I'm Eslam Hashim</h1>
+Eslam Hashim
 
-<p align="center">
-  💻 <strong>Front-End Developer (Jr.)</strong><br>
-  🧠 Passionate about building fast, clean, and responsive web applications using <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>.
-</p>
+Front End Developer
+
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+🚀 About Me
+
+Passionate Front End Developer with expertise in building exceptional web experiences. I specialize in creating interactive, responsive, and high-performance user interfaces using modern technologies and best practices. Constantly learning and staying up-to-date with the latest trends in web development.
+
+💼 Technical Skills
+
+Programming Languages
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+
+Frameworks & Libraries
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+
+Development Tools
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+
+📊 GitHub Stats
+
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=EslamHashim&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=EslamHashim&layout=compact&theme=radical&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=EslamHashim&theme=radical&hide_border=true
+
+</div>
+
+🏆 Featured Projects
+
+Task Management App
+
+A comprehensive web application for task management with advanced features:
+
+· Add/Edit/Delete tasks
+· Priority-based task categorization
+· Interactive and responsive UI
+· Drag and drop functionality
+
+Technologies: React, TypeScript, TailwindCSS, Context API, Local Storage
+
+E-commerce Platform
+
+Full-featured e-commerce platform with integrated CMS:
+
+· Product catalog and details with filtering
+· Advanced shopping cart with persistence
+· Secure payment system integration
+· User authentication and profiles
+
+Technologies: Vue.js, Vuex, SCSS, REST API, Firebase
+
+Analytics Dashboard
+
+Data visualization dashboard for business statistics:
+
+· Interactive charts and graphs using Chart.js
+· Customizable reports and data export
+· Real-time data updates
+· Responsive design for all devices
+
+Technologies: Angular, RxJS, Chart.js, Material UI, REST API
+
+Weather Application
+
+Real-time weather application with advanced features:
+
+· Current weather and 7-day forecasts
+· Geolocation support and city search
+· Beautiful UI with weather animations
+· Temperature unit conversion
+
+Technologies: React, OpenWeather API, CSS Modules, Axios
+
+💡 What I'm Currently Learning
+
+· Backend Development with Node.js and Express
+· Database Management with MongoDB and PostgreSQL
+· Cloud Platforms like AWS and Vercel
+· Mobile Development with React Native
+· UI/UX Design Principles
+
+📫 Connect With Me
+
+· Email: eslam.hashim@example.com
+· Portfolio: eslamhashim.dev
+· LinkedIn: Eslam Hashim
+· Twitter: @EslamHashim
+· Blog: blog.eslamhashim.dev
+
+📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+· Mastering React Hooks: A Comprehensive Guide
+· CSS Grid vs Flexbox: When to Use What
+· Optimizing Web Performance: Best Practices
+· TypeScript for Frontend Developers
+
+<!-- BLOG-POST-LIST:END -->
+
+🎯 Career Goals
+
+· Contribute to open-source projects
+· Master full-stack development
+· Build scalable and maintainable applications
+· Mentor aspiring developers
+· Stay updated with emerging web technologies
 
 ---
 
-### 🧩 About Me
-- 🔭 Currently working on improving my React skills by building real-world projects.
-- 🌱 Learning more about performance optimization, accessibility, and UI animations.
-- 💬 I enjoy creating modern and interactive interfaces that deliver great user experiences.
-- 🎯 My goal: to become a professional front-end developer capable of building scalable apps.
-- ⚡ Fun fact: I often redesign small components just to make them look pixel-perfect 😄
+<div align="center">
+
+🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+⭐ From Eslam Hashim
+
+</div>
+
+🔧 Installation & Usage
+
+To run any of my projects locally:
+
+bash
+# Clone the repository
+git clone https://github.com/EslamHashim/project-name.git
+
+# Navigate to project directory
+cd project-name
+
+# Install dependencies
+npm install
+
+# Run development server
+npm start
+
+
+📄 License
+
+All projects are open source and available under the MIT License.
 
 ---
 
-### 🛠️ Tech Stack
+Last updated: December 2023
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| 🧠 Project | 💬 Description | 🔗 Live Demo / Repo |
-|------------|----------------|--------------------|
-| **Modern Portfolio** | A fully responsive portfolio built with React & Tailwind showcasing my work and skills. | [🔗 Live Demo](https://eslam-portfolio.netlify.app) / [💻 Repo](https://github.com/EslamHashim/modern-portfolio) |
-| **Taskify - Todo App** | A clean and minimal task manager built with React Hooks and Local Storage. | [🔗 Live Demo](https://taskify-react.netlify.app) / [💻 Repo](https://github.com/EslamHashim/taskify-todo-app) |
-| **ShopSmart E-commerce** | A simple e-commerce front-end built using React Context API & Tailwind CSS. | [🔗 Live Demo](https://shopsmart-react.netlify.app) / [💻 Repo](https://github.com/EslamHashim/shopsmart-store) |
-| **Creative Landing Page** | A landing page template with smooth scroll and responsive layout. | [🔗 Live Demo](https://creative-landing.netlify.app) / [💻 Repo](https://github.com/EslamHashim/creative-landing-page) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamHashim&show_icons=true&theme=radical" alt="Eslam's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamHashim&theme=radical" alt="Eslam's streak stats" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/EslamHashim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eslam-hashim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eslam.hashim.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 💬 Favorite Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-⭐️ If you enjoy my work, feel free to **follow me** and give a **star** to my repositories ❤️  
+Note: Remember to replace all placeholder links, email addresses, and project details with your actual information. The blog posts section can be automated using GitHub Actions to pull from your actual blog RSS feed.
