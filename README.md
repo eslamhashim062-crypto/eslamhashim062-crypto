@@ -25,7 +25,7 @@ Currently improving my skills in **React.js**, **JavaScript**, and **Front-End p
 
 ### 📫 How to Reach Me
 - 📧 Email: [eslam.hashim.dev@gmail.com](mailto:eslamhashim062@gmail.com)  
-- 💼 LinkedIn:[ eslam.hashim.linkedin.com](www.linkedin.com/in/eslam-hashim-aa877a2b4)  
+- 💼 LinkedIn:[ eslam.hashim.linkedin.com]( https://www.linkedin.com/in/eslam-hashim-aa877a2b4/overlay/contact-info/)
 - 🌐 Portfolio: (coming soon)
 
 ---
