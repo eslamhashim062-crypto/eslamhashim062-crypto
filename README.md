@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Eslam Hashim
 
-### 💻 Junior Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Lifelong Learner
+### 💻 Junior Front-End Developer | 🚀 Lifelong Learner
 
 I'm passionate about building **responsive, user-friendly, and modern web interfaces**.  
 Currently improving my skills in **React.js**, **JavaScript**, and **Front-End performance optimization**.
